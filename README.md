@@ -28,7 +28,7 @@ This repository provides download links to global chlorophyll content (CCC) data
 Please cite the following paper when using this dataset:
 
 > **Li, D., Croft, H., Duveiller, G., Schreiner-McGraw, A.P., Belwalkar, A., Cheng, T., Zhu, Y., Cao, W., & Yu, K.** (2025).  
-> *Global retrieval of canopy chlorophyll content from Sentinel-3 OLCI TOA data using a two-step upscaling method integrating physical and machine learning models*.  
+> Global retrieval of canopy chlorophyll content from Sentinel-3 OLCI TOA data using a two-step upscaling method integrating physical and machine learning models.  
 > *Remote Sensing of Environment*, 328, 114845.  
 > [https://doi.org/10.1016/j.rse.2025.114845](https://doi.org/10.1016/j.rse.2025.114845)
 
